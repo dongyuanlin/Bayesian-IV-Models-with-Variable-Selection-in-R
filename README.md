@@ -105,7 +105,7 @@ result <- bayesian_iv(data$Y, data$X, data$Z,
 **Dongyuan Lin**  
 - Email: *lin_dongyuan@foxmail.com*  
 - GitHub: [@dongyuanlin](https://github.com/dongyuanlin)
-- LinkedIn: [@dongyuan lin](optional)*(https://www.linkedin.com/in/dongyuan-lin-094237297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
+- LinkedIn: @dongyuan lin (https://www.linkedin.com/in/dongyuan-lin-094237297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
 
 ---
 
