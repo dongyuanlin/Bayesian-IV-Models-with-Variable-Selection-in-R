@@ -6,7 +6,7 @@
 
 ## 🌱 Preface
 
-Until I organized the code and published them in my github, it's been a long time. if there are anything wrong please let me know! Although maybe in a long time i could not fix them on time, i will try my best! it is my first try not only writting so many code but also truly realizing how is a research project going, it's a gift for my master graduation and maybe my last time being a student. i will appreciate my first project that can be genuinely regarded as a "work" and never forget this experience！Thanks! 
+Until I organized the code and published them in my github, it's been a long time. if there are anything wrong please let me know! Although maybe in a long time i could not fix them on time, i will try my best! it is my first try not only writting so many code but also truly realizing how is a research project going, it's a gift for my master graduation and maybe my last time being a student. i will appreciate my first project that can be genuinely regarded as a "work" and never forget this experience! Thanks! 
 
 ---
 
