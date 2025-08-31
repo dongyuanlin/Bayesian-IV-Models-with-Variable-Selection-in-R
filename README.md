@@ -49,7 +49,7 @@ Bayesian-IV-Variable-Selection-R/
 │   ├── 01_sim_endogeneity.R                 # Run simulation study for endogeneity
 │   ├── 02_sim_variable_selection.R          # Run simulation study for variable selection (based on best model)
 │   └── 03_appli_variable_selection.R        # Run application study for variable selection
-└── docs/
+└── results_report/
     ├── Thesis_Lin_Dongyuan.pdf  # Full thesis manuscript
     └── slide.pdf                # Slides for final presentation in USYD
 ```
@@ -82,7 +82,7 @@ The provided code demonstrates:
 
 ### Prerequisites
 - R (>= 4.1.0)  
-- Required packages: `MASS`, `coda`, `ggplot2`, `dplyr`  
+- Required packages: `mvtnorm`, `MASS`, `MCMCpack`, `brms`, `doParallel`, `foreach`, `coda`, `ggplot2`, `dplyr`  
 
 ### Basic Usage
 1. Clone the repository  
@@ -104,13 +104,13 @@ result <- bayesian_iv(data$Y, data$X, data$Z,
 ## 👨‍💻 Author
 **Dongyuan Lin**  
 - Email: *lin_dongyuan@foxmail.com*  
-- GitHub: [@YourGitHubHandle](https://github.com/YourGitHubHandle)  
-- LinkedIn: *Your Profile (optional)*  
+- GitHub: [@dongyuanlin](https://github.com/dongyuanlin)
+- LinkedIn: [@dongyuan lin](optional)*(https://www.linkedin.com/in/dongyuan-lin-094237297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
 
 ---
 
 ## 🙏 Acknowledgments
-I am deeply grateful to my supervisors, **Associate Professor Clara Grazian** and **Dr. Linh Nghiem**, for their invaluable guidance and support.  
+I am deeply grateful to my supervisors, **Associate Professor Clara Grazian** and **Dr. Linh Nghiem**, for their invaluable guidance and support. I had some assistance from smart tools to refine my code. 
 
 This work was completed at **The University of Sydney**.  
 
